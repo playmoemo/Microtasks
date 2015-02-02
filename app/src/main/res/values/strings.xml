@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Micro tasks</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_help">Swipe to navigate</string>
+
+    <string-array name="questions">
+        <item>How many condensate pumps are running on turbine 31?</item>
+        <item>How many condensate pumps are running on turbine 32?</item>
+        <item>How many condensate pumps are running on turbine 33?</item>
+        <item>How many condensate pumps are running on turbine 34?</item>
+        <item>How many condensate pumps are running on turbine 35?</item>
+        <item>How many condensate pumps are running on turbine 36?</item>
+        <item>How many condensate pumps are running on turbine 37?</item>
+        <item>How many condensate pumps are running on turbine 38?</item>
+        <item>How many condensate pumps are running on turbine 39?</item>
+        <item>How many condensate pumps are running on turbine 40?</item>
+    </string-array>
+
+</resources>

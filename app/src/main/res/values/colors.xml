@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_base_background">#1F3329</color>
+    <color name="color_question_page_background">#E1FFF0</color>
+    <color name="color_question_text">#C4170F02</color>
+</resources>
